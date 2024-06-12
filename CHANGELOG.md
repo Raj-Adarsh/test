@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Raj-Adarsh/test/compare/v1.0.0...v1.1.0) (2024-06-12)
+
+
+### Features
+
+* testing v bump ([7aa5f83](https://github.com/Raj-Adarsh/test/commit/7aa5f834ab96ab11279bf4815c7101b153ce0fcf))
+
 # 1.0.0 (2024-06-12)
 
 
