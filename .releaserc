@@ -1,6 +1,6 @@
 {
-  "branches": ["master"],
-  "repositoryUrl": "git@github.com:Raj-Adarsh/test.gitgit@github.com:Raj-Adarsh/test.git",
+  "branches": ["main"],
+  "repositoryUrl": "https://github.com/Raj-Adarsh/test",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
